@@ -2,4 +2,8 @@
   
 <p> Meu primeiro projeto de programação, feito em 2016 no Scratch. É uma animação da história de Cachinho Dourados e os Três Ursos, com desenhos e falas originais :) </p>
 
-<iframe src="https://scratch.mit.edu/projects/109454277/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+<a href="https://scratch.mit.edu/projects/109454277">
+  <img src="https://github.com/Marinakrae/imagens_sites/blob/124a397c3986227dfbec9b607616b0daedf7329e/imagem_2022-03-08_224419.png" alt="Coala Shop 1" width="300"/>
+</a>
+
+Link: https://scratch.mit.edu/projects/109454277
