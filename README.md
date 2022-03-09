@@ -6,4 +6,9 @@
   <img src="https://github.com/Marinakrae/imagens_sites/blob/124a397c3986227dfbec9b607616b0daedf7329e/imagem_2022-03-08_224419.png" alt="Coala Shop 1" width="500"/>
 </a>
 
+<a href="https://scratch.mit.edu/projects/109454277">
+  <img src="https://github.com/Marinakrae/imagens_sites/blob/cdd042e05b591d93a35e922228f6c8a9b35b761c/imagem_2022-03-08_225305.png" alt="Coala Shop 1" width="500"/>
+</a>
+
 Link: https://scratch.mit.edu/projects/109454277
+
