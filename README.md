@@ -1,6 +1,6 @@
 <h1> Cachinhos_Dourados_Scratch </h1>
   
-<p> Meu primeiro projeto de programação, feito em 2016 no Scratch. É uma animação da história de Cachinho Dourados e os Três Ursos, com desenhos e falas originais :) </p>
+<p> Meu primeiro projeto de programação, feito em 2016 no Scratch. É uma animação da história de Cachinhos Dourados e os Três Ursos, com desenhos e falas originais :) </p>
 <p> Link: https://scratch.mit.edu/projects/109454277 </p>
 
 <a href="https://scratch.mit.edu/projects/109454277">
